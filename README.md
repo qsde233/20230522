@@ -62,3 +62,8 @@ int main(void)
 
 '''java
 ...
+     echo "数据回显”
+
+## 超链接
+
+[百度搜索】（https://www.baidu.com"点击进入")
