@@ -38,3 +38,27 @@
 
 1. 游戏
   1.FPS游戏
+
+##表格
+游戏名|排行|价格
+---|:---:|---:
+APEX|81|FREE
+CSGO|10|98
+
+##代码
+
+...c
+#include<stdio.h>
+
+int main(void)
+{
+  printf("test");
+  return 0;
+}
+...
+
+...python
+...
+
+'''java
+...
